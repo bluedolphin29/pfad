@@ -1,4 +1,3 @@
-pip install torch_requirements.txt
 import pyaudio
 import numpy as np
 
